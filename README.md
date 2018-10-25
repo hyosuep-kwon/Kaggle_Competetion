@@ -1,3 +1,3 @@
 # Kaggle_Competetion
 
-Repo of Kaggle competetion
+Repo of Kaggle competetions
